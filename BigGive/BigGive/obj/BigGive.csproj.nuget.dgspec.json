@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walke\\source\\repos\\BigGive\\BigGive\\BigGive.csproj": {}
+    "D:\\BigGive\\BigGive\\BigGive\\BigGive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walke\\source\\repos\\BigGive\\BigGive\\BigGive.csproj": {
+    "D:\\BigGive\\BigGive\\BigGive\\BigGive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walke\\source\\repos\\BigGive\\BigGive\\BigGive.csproj",
+        "projectUniqueName": "D:\\BigGive\\BigGive\\BigGive\\BigGive.csproj",
         "projectName": "BigGive",
-        "projectPath": "C:\\Users\\walke\\source\\repos\\BigGive\\BigGive\\BigGive.csproj",
+        "projectPath": "D:\\BigGive\\BigGive\\BigGive\\BigGive.csproj",
         "packagesPath": "C:\\Users\\walke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walke\\source\\repos\\BigGive\\BigGive\\obj\\",
+        "outputPath": "D:\\BigGive\\BigGive\\BigGive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\walke\\AppData\\Roaming\\NuGet\\NuGet.Config",
