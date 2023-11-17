@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BigGive/BigGive/Views/Home/Index.cshtml
+/BigGive/.vs/BigGive/DesignTimeBuild
+/BigGive/.vs/BigGive/FileContentIndex
+/BigGive/BigGive/obj/Debug/net6.0
+/BigGive/.vs/BigGive/v17/.suo
