@@ -29,3 +29,11 @@ body {
     display: block;
     width: 100%;
 }
+
+.questionBlock {
+    margin: 10px 0 10px 0;
+}
+
+.questionBlock label{
+    display:block;
+}
