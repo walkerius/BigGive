@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LMEdzeHe7pbh94XIxAIDNfog/RJk5qzF6wSabugc39M=",
+  "Hash": "1+YbGp2o8r5pFZrCfEYD/frHIl5o4ZZMiuiipBbAyPM=",
   "Source": "BigGive",
   "BasePath": "_content/BigGive",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Joseph McMahan\\BigGive\\BigGive\\BigGive\\wwwroot\\images\\calculator.JPG",
+      "SourceId": "BigGive",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Joseph McMahan\\BigGive\\BigGive\\BigGive\\wwwroot\\",
+      "BasePath": "_content/BigGive",
+      "RelativePath": "images/calculator.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\calculator.JPG"
     },
     {
       "Identity": "C:\\Users\\Joseph McMahan\\BigGive\\BigGive\\BigGive\\wwwroot\\js\\site.js",
