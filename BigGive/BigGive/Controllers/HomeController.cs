@@ -5,6 +5,11 @@ using System;
 using System.Data.SqlClient;
 using Microsoft.AspNetCore.Hosting.Server;
 using System.Xml.Linq;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
 
 namespace BigGive.Controllers
 {
@@ -28,7 +33,8 @@ namespace BigGive.Controllers
 
         public IActionResult SubmitForm()
         {
-            return View();
+            SubmitForm formModel = new SubmitForm { Name = "Bobby Joe" };
+            return View(formModel);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
