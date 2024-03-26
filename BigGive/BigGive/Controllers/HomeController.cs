@@ -9,6 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Data.Entity;
 
 
 namespace BigGive.Controllers
@@ -16,6 +17,7 @@ namespace BigGive.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        BigGiveEntities _entities = new BigGiveEntities();
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -33,8 +35,11 @@ namespace BigGive.Controllers
 
         public IActionResult SubmitForm()
         {
-            SubmitForm formModel = new SubmitForm { Name = "Bobby Joe" };
-            return View(formModel);
+           
+            return View();
+
+
+
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

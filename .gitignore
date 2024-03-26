@@ -1,35 +1,3 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+node_modules/
 
-/BigGive/BigGive/Views/Home/Index.cshtml
-*.v2
-*.vsidx
-*.cache
-/BigGive/.vs/BigGive/config/applicationhost.config
-/BigGive/.vs/BigGive/v17/.suo
-/BigGive/BigGive/bin/Debug/net6.0/BigGive.dll
-/BigGive/BigGive/bin/Debug/net6.0/BigGive.exe
-/BigGive/BigGive/bin/Debug/net6.0/BigGive.pdb
-/BigGive/BigGive/bin/Debug/net6.0/BigGive.staticwebassets.runtime.json
-/BigGive/BigGive/obj/Debug/net6.0/ref/BigGive.dll
-/BigGive/BigGive/obj/Debug/net6.0/refint/BigGive.dll
-/BigGive/BigGive/obj/Debug/net6.0/staticwebassets/msbuild.BigGive.Microsoft.AspNetCore.StaticWebAssets.props
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.csproj.CoreCompileInputs.cache
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.dll
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.genruntimeconfig.cache
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.pdb
-/BigGive/BigGive/obj/Debug/net6.0/staticwebassets.build.json
-/BigGive/BigGive/obj/Debug/net6.0/staticwebassets.development.json
-/BigGive/BigGive/obj/Debug/net6.0/staticwebassets.pack.json
-/BigGive/BigGive/bin/Debug/net6.0/af/Humanizer.resources.dll
-*.dll
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.assets.cache
-*.CopyComplete
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.csproj.FileListAbsolute.txt
-/BigGive/BigGive/obj/Debug/net6.0/BigGive.GeneratedMSBuildEditorConfig.editorconfig
-/BigGive/BigGive/obj/project.nuget.cache
-/BigGive/BigGive/obj/Debug/net6.0/project.razor.vs.json
-/BigGive/BigGive/obj/BigGive.csproj.nuget.dgspec.json
-/BigGive/BigGive/obj/BigGive.csproj.nuget.g.props
-/BigGive/BigGive/obj/project.assets.json
+.dev.vars
